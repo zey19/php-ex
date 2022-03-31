@@ -37,14 +37,7 @@
 
 
     <?php
-    if(empty($_GET['username']) == false)
-    {
-        echo "Welcome" .$_GET['username'];
-    }
-    else {
-        echo "1";
-    }
-    ?>
+phpinfo();
 
 </body>
 </html>

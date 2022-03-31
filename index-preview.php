@@ -128,5 +128,8 @@
     echo  $_GET['language'];
     echo  $_GET['description'];*/
     ?>
+
+<?php
+phpinfo();
 </body>
 </html>
