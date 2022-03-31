@@ -129,7 +129,6 @@
     echo  $_GET['description'];*/
     ?>
 
-<?php
-phpinfo();
+
 </body>
 </html>

@@ -36,8 +36,7 @@
 
 
 
-    <?php
-phpinfo();
+  
 
 </body>
 </html>
